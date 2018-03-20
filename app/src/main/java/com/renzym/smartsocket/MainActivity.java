@@ -122,7 +122,7 @@ public class MainActivity extends Activity implements TaskCompleted{
                 }
 
 
-
+              // umar
                 arraylist.clear();
                 wifi.startScan();
                 try {
