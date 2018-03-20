@@ -114,7 +114,7 @@ public class MainActivity extends Activity implements TaskCompleted{
                 try
                 {
                     netAddress = new NetTask().execute("192.168.8.1").get();
-                    //System.out.println("netAddress: " + netAddress);
+                    System.out.println("netAefgfgddress: " + netAddress);
                 }
                 catch (Exception e1)
                 {
